@@ -1,2 +1,3 @@
-Och h�r kommer en andra tv�radersfil.
-Med sin andra rad h�r, fast dessutom med radbrytning efter.
+Och här kommer en andra tvåradersfil.
+Med sin andra rad här, fast dessutom med radbrytning efter.
+Kan jag alltså redigera här på github...!
